@@ -1,1 +1,1 @@
-# Mini project
+# Mini workshop for test library autoGUI
